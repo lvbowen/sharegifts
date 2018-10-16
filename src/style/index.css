@@ -1,0 +1,44 @@
+html * {
+  font-family: MicrosoftYaHei;
+}
+
+.app-container {
+
+}
+
+.app-header {
+  height: 40px;
+  padding-left: 20px;
+  line-height: 40px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(32, 45, 61, 1);
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0 1px 0 0 rgba(228, 231, 237, 1);
+}
+
+.app-neck {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0 1px 0 0 rgba(228, 231, 237, 1);
+}
+
+.app-main {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0 2px 0 0 rgba(228, 231, 237, 1);
+}
+
+.search-bar {
+  padding-left: 20px;
+  overflow: auto;
+}
+
+.el-pagination {
+  text-align: right;
+  margin-top: 15px;
+}
+
+.el-breadcrumb {
+  margin-top: 3px;
+  line-height: 2 !important;
+}
+
